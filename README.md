@@ -1,0 +1,2 @@
+# ChatToLLM
+可以通过语音实现直接和大模型对话，调用deepseek和科大讯飞的API
