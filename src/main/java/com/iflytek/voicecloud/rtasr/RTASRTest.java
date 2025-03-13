@@ -35,9 +35,9 @@ import java.util.concurrent.atomic.AtomicReference;
 public class RTASRTest {
 
     // appid 与 secret_key
-    private static final String APPID = "29f2c6ca";
-    private static final String SECRET_KEY = "7a57cf488d990cbe8d8e474d7b1a5fbb";
-    private static final String DEEPSEEK_API_KEY = "sk-79862cf0111149d4a55c6f0d96e452fa";
+    private static final String APPID = "";
+    private static final String SECRET_KEY = "";
+    private static final String DEEPSEEK_API_KEY = "";
     private static final String DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions";
 
     // 请求地址及其他参数
